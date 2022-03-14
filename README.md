@@ -1,3 +1,1 @@
-# web-platform-jhbzzq
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-jhbzzq)
+salvando dados de um input
